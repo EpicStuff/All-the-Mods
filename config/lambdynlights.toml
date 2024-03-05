@@ -1,0 +1,179 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+
+# Light sources settings.
+[light_sources]
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Enable block entities light source.
+	block_entities = true
+	# Enable entities light source.
+	entities = true
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "fancy"
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "fancy"
+	self = true
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				zombie_horse = true
+				axolotl = true
+				bee = true
+				egg = true
+				arrow = true
+				cow = true
+				magma_cube = true
+				pig = true
+				skeleton = true
+				llama = true
+				bat = true
+				frog = true
+				hoglin = true
+				rabbit = true
+				firework_rocket = true
+				armor_stand = true
+				drowned = true
+				experience_orb = true
+				dolphin = true
+				item = true
+				stray = true
+				turtle = true
+				salmon = true
+				vex = true
+				wandering_trader = true
+				wither_skeleton = true
+				piglin_brute = true
+				goat = true
+				ocelot = true
+				furnace_minecart = true
+				item_frame = true
+				horse = true
+				vindicator = true
+				phantom = true
+				minecart = true
+				ender_dragon = true
+				leash_knot = true
+				evoker = true
+				llama_spit = true
+				mooshroom = true
+				glow_squid = true
+				glow_item_frame = false
+				squid = true
+				tnt = true
+				snowball = true
+				parrot = true
+				creeper = true
+				lightning_bolt = true
+				enderman = true
+				chicken = true
+				ravager = true
+				trader_llama = true
+				donkey = true
+				evoker_fangs = true
+				chest_minecart = true
+				tropical_fish = true
+				fox = true
+				slime = true
+				pillager = true
+				iron_golem = true
+				zombified_piglin = true
+				area_effect_cloud = true
+				piglin = true
+				blaze = true
+				endermite = true
+				cat = true
+				zombie = true
+				guardian = true
+				ghast = true
+				sheep = true
+				fireball = true
+				player = true
+				pufferfish = true
+				potion = true
+				trident = true
+				wolf = true
+				villager = true
+				fishing_bobber = true
+				zombie_villager = true
+				elder_guardian = true
+				boat = true
+				small_fireball = true
+				strider = true
+				hopper_minecart = true
+				painting = true
+				witch = true
+				cod = true
+				spider = true
+				wither = true
+				cave_spider = true
+				snow_golem = true
+				skeleton_horse = true
+				ender_pearl = true
+				panda = true
+				shulker = true
+				wither_skull = true
+				husk = true
+				shulker_bullet = true
+				experience_bottle = true
+				chest_boat = true
+				allay = true
+				spectral_arrow = true
+				polar_bear = true
+				giant = true
+				silverfish = true
+				camel = true
+				dragon_fireball = true
+				end_crystal = true
+				eye_of_ender = true
+				falling_block = true
+				illusioner = true
+				marker = true
+				command_block_minecart = true
+				spawner_minecart = true
+				tnt_minecart = true
+				mule = true
+				tadpole = true
+				warden = true
+				zoglin = true
+
+			[light_sources.settings.entities.immersive_portals]
+				nether_portal_new = true
+				end_portal = true
+				loading_indicator = true
+
+		[light_sources.settings.block_entities]
+
+			[light_sources.settings.block_entities.minecraft]
+				furnace = true
+				chest = true
+				trapped_chest = true
+				ender_chest = true
+				jukebox = true
+				dispenser = true
+				dropper = true
+				sign = true
+				hanging_sign = true
+				mob_spawner = true
+				piston = true
+				brewing_stand = true
+				enchanting_table = true
+				end_portal = true
+				beacon = true
+				skull = true
+				daylight_detector = true
+				hopper = true
+				comparator = true
+				banner = true
+				structure_block = true
+				end_gateway = true
+				command_block = true
+				shulker_box = true
+				bed = true
+				conduit = true
+				barrel = true
+
