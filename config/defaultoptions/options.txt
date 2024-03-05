@@ -1,6 +1,0 @@
-version:3218
-autoJump:false
-realmsNotifications:false
-resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","bedrockwaters:resources","telepistons:enable_steam","itemswapper:default","seamless:default_seamless","continuity:default","betterbeds:connectedbeds","telepistons:sticky_sides","file/VanillaTweaks_r697080.zip","continuity:glass_pane_culling_fix","file/3D Default 1.20 v1.9.0.zip","file/Improved Enchanted Books.zip","file/Dramatic Skys Demo 1.5.3.18.zip"]
-skipMultiplayerWarning:true
-telemetryOptInExtra:false
