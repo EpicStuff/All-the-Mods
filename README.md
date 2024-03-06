@@ -17,7 +17,7 @@ Modpack (should be/)is compatible with vanilla servers. (as in you can join vani
 
 ## Known Issues
 
--   sometimes when you press buttons, the GUI gets messed up
+-   sometimes when you press certain keys, the GUI gets messed up
     -   will fix as soon as I track down which mod is causing this
 -   refill (item/bocks) doesn't really work when there's something in the offhand
 -   some resourcepack error causes the font to sometimes turn red (should go away when you load/join a world/server)
