@@ -15,7 +15,7 @@ Modpack (should be/)is compatible with vanilla servers. (as in you can join vani
 -   Freecam: [https://www.curseforge.com/minecraft/mc-mods/free-cam/download/4203516](https://www.curseforge.com/minecraft/mc-mods/free-cam/download/4203516)
 -   Clickable advancements: [https://www.curseforge.com/minecraft/mc-mods/clickable-advancements/download/4258161](https://www.curseforge.com/minecraft/mc-mods/clickable-advancements/download/4258161)
 
-## Issues
+## Known Issues
 
 -   sometimes when you press buttons, the GUI gets messed up
     -   will fix as soon as I track down which mod is causing this
